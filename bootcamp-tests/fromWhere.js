@@ -1,11 +1,11 @@
 var fromWhere = function(license){
-    if (license === 'CY'){
+    if (license === 'CY 1234'){
         return "Bellville"
     }
-    else if (license === 'CJ'){
+    else if (license === 'CJ 1234'){
         return "Paarl"
     }
-  else if (license === 'CA'){
+  else if (license === 'CA 1234'){
         return "Cape Town"
     }
     else{
